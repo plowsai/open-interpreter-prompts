@@ -1,32 +1,11 @@
 # OI Prompt Library
 This is a prompt library designed to know what prompts will get you the desired output for using OI.
 
-## Recipes based on using OI
+## Recipes for using Open-Interpreter
 
-1) Open the web browser and make a Google search
+For browser-based prompts, please refer to the `browser` folder. Specifically, check the `chrome` or `safari` files for detailed instructions on how to perform tasks such as making a Google search, replying to a Slack message, sending an email, or scheduling a meeting.
 
-   ```
-   This is a placeholder text for the prompts necessary to do a Google search using OI.
-   ```
-
-2) Reply to a Slack message
-
-   ```
-   This is a placeholder.
-   ```
-
-3) Send an email
-
-   ```
-   This is a placeholder text for the prompts necessary to send an email using OI.
-   ```
-
-4) Schedule a meeting
-
-   ```
-   This is a placeholder text for the prompts necessary to schedule a meeting using OI.
-   ```
-
+For existing skills, please refer to the `skills` folder for detailed instructions on how to utilize various capabilities using OI.
 ## How to Contribute
 
 We welcome contributions from the community! Here’s how you can get involved:
