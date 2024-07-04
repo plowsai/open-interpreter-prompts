@@ -60,7 +60,9 @@ We welcome contributions from the community! Here’s how you can get involved:
 Thank you for your contributions!
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Join Our Community
+
 For more discussions and support, join our [Discord server](https://discord.gg/NWmH5sEA).
